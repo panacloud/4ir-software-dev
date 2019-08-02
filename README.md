@@ -1,5 +1,5 @@
 # Future Software Development
-In this repo we will learn software development step by step with technologies that will be used extensively:
+In this repo we will learn software development step by step with technologies that will be used extensively in the future:
 
 - Rust (Microservices)
 - Embedded Rust
