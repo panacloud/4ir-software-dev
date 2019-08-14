@@ -1,8 +1,14 @@
-# Future Software Development
-In this repo we will learn software development step by step with technologies that will be used extensively in the future:
+# Learing Fourth Industrial Revolution (4IR) Software Development
+In this repo we will learn software development using technologies that will be used extensively in the fouth industrial revolution:
 
-- Rust (Microservices)
+- Rust Microservices
+- Python Microservices
+- Web Assembly
 - Embedded Rust
 - Docker 
-- Kubernetes (Edge and Cloud)
+- Kubernetes on the Edge and Cloud
 - Tensorflow 2.0
+- Kafka
+- MQTT
+- Libra
+- Ethereum  
