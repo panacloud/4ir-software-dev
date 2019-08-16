@@ -11,4 +11,5 @@ In this repo we will learn software development using technologies that will be 
 - Kafka
 - MQTT
 - Libra
-- Ethereum  
+- Ethereum
+- Google Assistant
