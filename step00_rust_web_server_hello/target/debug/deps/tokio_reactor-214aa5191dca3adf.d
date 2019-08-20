@@ -1,0 +1,11 @@
+/home/admin1/mycode/4ir-software-dev/step00_rust_web_server_hello/target/debug/deps/tokio_reactor-214aa5191dca3adf.rmeta: /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/lib.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/background.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/poll_evented.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/registration.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/sharded_rwlock.rs
+
+/home/admin1/mycode/4ir-software-dev/step00_rust_web_server_hello/target/debug/deps/libtokio_reactor-214aa5191dca3adf.rlib: /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/lib.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/background.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/poll_evented.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/registration.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/sharded_rwlock.rs
+
+/home/admin1/mycode/4ir-software-dev/step00_rust_web_server_hello/target/debug/deps/tokio_reactor-214aa5191dca3adf.d: /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/lib.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/background.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/poll_evented.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/registration.rs /home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/sharded_rwlock.rs
+
+/home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/lib.rs:
+/home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/background.rs:
+/home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/poll_evented.rs:
+/home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/registration.rs:
+/home/admin1/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-reactor-0.1.9/src/sharded_rwlock.rs:
